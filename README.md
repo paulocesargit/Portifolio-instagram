@@ -1,3 +1,3 @@
-# Portifolio-instagram
+## Como acessar o projeto? 🤔
 
-https://paulocesargit.github.io/Portifolio-instagram/
+Basta clicar [AQUI](https://paulocesargit.github.io/Portifolio-instagram/) que você será direcionado!
